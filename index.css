@@ -29,7 +29,7 @@ p, img {
   border-radius: 20px;
   display: inline-block;
   font-family: outfit;
-  
+  box-shadow: 0 25px 25px rgba(0, 0, 0, .05);
 }
 
 .qr-code-image {
