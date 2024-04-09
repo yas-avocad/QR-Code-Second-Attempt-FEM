@@ -52,7 +52,7 @@ p, img {
   width: 288px;
   font-size: 22px;
   font-weight: bold;
-  line-height: 28px;
+  line-height: 30px;
   text-align: center;
   margin-bottom: 16px;
   color: var(--Darkblue);
@@ -62,7 +62,7 @@ p, img {
   color: var(--grey);
   font-size: 15px;
   letter-spacing: .19px;
-  line-height: 22px;
+  line-height: 20px;
   text-align: center;
   margin-bottom: 40px;
   width: 260px;
